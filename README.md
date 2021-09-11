@@ -1,10 +1,14 @@
 # Assignment2
 Try these and copy your command and message, paste it in file and submit. you should
 include these two repository links in the file.
+
+
 Q1.
 1. Create a repository for your Team Software Project
 2. Invite your teammates
 3. Paste your link in below question
+
+
 Q2.
 Answer each question in a separate commit. Follow the steps below for each commit.
 1. Create a repository named as “Assignment 2” in github with Readme.md file,
